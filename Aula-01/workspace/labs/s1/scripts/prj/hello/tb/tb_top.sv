@@ -52,9 +52,7 @@ module tb_calc4();
     check(8'd100, 8'd4,  2'b11, 8'd25,  "Divisao    ");
     
     $display("----------------------------------------------");
-    
-    // cobertura simples
-    
+        
     if (errors == 0)
       $display("RESULTADO FINAL: SUCESSO");
     else
