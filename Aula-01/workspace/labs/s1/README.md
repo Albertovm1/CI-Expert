@@ -1,6 +1,6 @@
 ## Repositorio dedicado a primeira aula da capacitação do CI-Expert na trilha de Design Verification
 
-    Nesta primeira aula, o instrutor Gabriel apresentou uma ampla gama de conteúdos novos. Como eu ainda não tinha familiaridade com comandos Linux, Shell Script e Git, foi fundamental aprender e praticar esses conceitos em casa. Quanto ao fluxo de verificação, eu já possuía um conhecimento prévio, mas não tão aprofundado quanto o que estou adquirindo diariamente. Para consolidar esse aprendizado, elaborei um resumo da aula para consultas futuras.
+Nesta primeira aula, o instrutor Gabriel apresentou uma ampla gama de conteúdos novos. Como eu ainda não tinha familiaridade com comandos Linux, Shell Script e Git, foi fundamental aprender e praticar esses conceitos em casa. Quanto ao fluxo de verificação, eu já possuía um conhecimento prévio, mas não tão aprofundado quanto o que estou adquirindo diariamente. Para consolidar esse aprendizado, elaborei um resumo da aula para consultas futuras.
 
 ## 1. Comandos linux
 
